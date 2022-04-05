@@ -1,4 +1,4 @@
-# CSC258H5S Winter 2022 Assembly Final Project
+# CSC258 Winter 2022 Assembly Final Project
 University of Toronto, St. George
 
 Author: Man Chon Ho
