@@ -10,6 +10,9 @@ Author: Man Chon Ho
 - Display height in pixels: 512
 - Base Address for Display: 0x10000000 (global data)
 
+## Gameplay screen
+![Gameplay screen](/img/gameplay.png)
+
 ## Additional features
 - Two player mode (Control description written below)
 - Display score
