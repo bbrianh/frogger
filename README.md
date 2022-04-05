@@ -1,6 +1,4 @@
-# CSC258 Winter 2022 Assembly Final Project
-University of Toronto, St. George
-
+# Assembly frogger
 Author: Man Chon Ho
 
 ## Bitmap Display Configuration:
