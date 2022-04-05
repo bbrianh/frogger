@@ -1,4 +1,4 @@
-# Assembly frogger
+# 2 player Frogger
 Author: Man Chon Ho
 
 ## Bitmap Display Configuration:
