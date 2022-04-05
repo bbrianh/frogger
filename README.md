@@ -33,3 +33,6 @@ Author: Man Chon Ho
 
 - object:
 	- The object patterns and speed can be modified by changing the corresponding bit flag in the data segment
+
+## Running the game
+You could use Mars 4.5 Assembly simulator to run the game. Open "Bit map display" and "Keyboard display and MMIO simulator" in Tools and use the correct configuration listed above.
