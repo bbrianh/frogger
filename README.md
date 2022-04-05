@@ -21,7 +21,7 @@ Author: Man Chon Ho
 ## Any additional information:
 - Two player control: wasd for p1, ijkl for p2
 - Collision detection:
-  - A frog is considered "crashed by a car" when one of its body part overlaps with a car
+	- A frog is considered "crashed by a car" when one of its body part overlaps with a car
 	- A frog is considered "drown" when its main body is not fully on a log (The limbs can be outside of the log)
 	- A frog is considered "goal" when its main body is full inside the goal (The limbs can be outside the goal region)
 - Scoring rule:
