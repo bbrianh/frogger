@@ -37,3 +37,5 @@ Author: Man Chon Ho
 
 ## Running the game
 You could use Mars 4.5 Assembly simulator to run the game. Open "Bit map display" and "Keyboard display and MMIO simulator" in Tools and use the correct configuration listed above.
+
+Mars 4.5 download link: http://courses.missouristate.edu/kenvollmar/mars/
