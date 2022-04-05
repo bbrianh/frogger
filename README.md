@@ -31,7 +31,7 @@ Author: Man Chon Ho
 	- 10 points to a new step forward
 	- 50 base points + 20 * remaining time to the player who reaches an empty goal
 - Win condition:
-	- You win if your opponents lose all 3 lives
+	- You win if your opponent loses all 3 lives
 	- If both players are alive when all 5 goals are filled, the player who have the higher score wins
 
 - object:
